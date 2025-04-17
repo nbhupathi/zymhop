@@ -1,0 +1,27 @@
+:root {
+  /* Colors */
+  --color-primary: #EF4444;
+  --color-primary-dark: #DC2626;
+  --color-primary-light: #FEE2E2;
+  
+  --color-secondary: #1F2937;
+  --color-secondary-dark: #111827;
+  --color-secondary-light: #374151;
+  
+  /* Spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  
+  /* Border Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 1rem;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+}
